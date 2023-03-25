@@ -4,7 +4,7 @@ This is the back-end of our social media platform, TAxt.
 
 <img src="./TAxt_appIcon.png" width = "200" height = "200">
 
-> Please note that if you only want to experience our app, you can directly visit the [front-end](https://github.com/ychia112/TAxt_SocialMedia) and install the app on your phone. The following content is only applicable to developers who want to run the back-end server on their own.
+> Please note that if you only want to experience our app, you can directly visit the [front-end](https://github.com/ychia112/TAxt_SocialMedia) and install the app on your phone. The following instructions are only applicable to developers who want to run the back-end server on their own.
 
 ## How to use it
 
@@ -26,7 +26,7 @@ npm install
 
 **Step 3:**
 
-Deploy the the contracts in `./contracts/` with Remix IDE.
+Deploy the contracts in `./contracts/` with Remix IDE.
 
 **Step 4:**
 
