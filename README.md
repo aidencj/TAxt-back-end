@@ -30,7 +30,7 @@ Deploy the contracts in `./contracts/` with Remix IDE.
 
 **Step 4:**
 
-Modify the following lines in config.json:
+Modify the following lines in `./config.json`:
 
 ```
 "PROVIDER_URL": "Your Blockchain provider",
