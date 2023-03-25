@@ -43,7 +43,7 @@ Modify the following lines in `./config.json`:
 .
 "WEB3_STORAGE_TOKEN": "Token of Your Web3 Storage",
 ```
-> To learn more details about WEB3_STORAGE_TOKEN, please visit [here](https://web3.storage/docs/)
+> To learn more details about WEB3_STORAGE_TOKEN, please visit [here](https://web3.storage/docs/#get-an-api-token)
 
 **Step 5:**
 
