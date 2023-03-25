@@ -1,0 +1,13 @@
+{
+    "PROVIDER_URL": "Your Blockchain provider",
+    "CONTRACT_ADDRESS_PostNFT": "Contract Address of PostNFT",
+    "CONTRACT_ADDRESS_UserInfo": "Contract Address of UserInfo",
+    "CONTRACT_ADDRESS_DiaryNFT": "Contract Address of DiaryInfo",
+    "ADDRESS": "Address of Your Wallet",
+    "ABI_PATH_PostNFT": "./contract_abi/PostNFT.json",
+    "ABI_PATH_UserInfo": "./contract_abi/UserInfo.json",
+    "ABI_PATH_DiaryNFT": "./contract_abi/DiaryNFT.json",
+    "GAS_LIMIT": 3000000,
+    "WEB3_STORAGE_TOKEN": "Token of Your Web3 Storage",
+    "PORT": 8080
+}
